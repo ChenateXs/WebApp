@@ -1,4 +1,4 @@
-package it.engineering.web.WebApp.action;
+package it.engineering.web.WebApp.action.login;
 
 import java.util.List;
 
@@ -6,6 +6,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
+import it.engineering.web.WebApp.action.AbstractAction;
 import it.engineering.web.WebApp.action.domain.User;
 import it.engineering.web.WebApp.constant.WebConstants;
 import it.engineering.web.WebApp.storage.UserStorage;

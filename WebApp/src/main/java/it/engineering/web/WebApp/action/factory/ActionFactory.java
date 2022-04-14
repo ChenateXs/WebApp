@@ -1,7 +1,7 @@
 package it.engineering.web.WebApp.action.factory;
 
 import it.engineering.web.WebApp.action.AbstractAction;
-import it.engineering.web.WebApp.action.LoginAction;
+import it.engineering.web.WebApp.action.login.LoginAction;
 import it.engineering.web.WebApp.constant.WebConstants;
 
 public class ActionFactory {
