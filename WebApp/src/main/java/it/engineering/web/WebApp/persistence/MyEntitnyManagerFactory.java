@@ -1,4 +1,4 @@
-package it.engineering.web.persistence;
+package it.engineering.web.WebApp.persistence;
 
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
